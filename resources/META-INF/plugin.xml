@@ -1,16 +1,29 @@
 <idea-plugin>
     <id>com.fernandojimenez.obsidian.theme</id>
     <name>Obsidian</name>
-    <version>1.0</version>
+    <version>1.2</version>
     <vendor email="luisfer.0793@gmail.com" url="https://github.com/luisfer0793">Luis Fernando Jiménez</vendor>
 
     <description><![CDATA[
-      A pure black theme, colouring syntax and confortable UI.
+      A pure black theme, colorful syntax and comfortable UI.
     ]]></description>
 
     <change-notes><![CDATA[
-     <h2>1.0</h2>
-     First release, basic functionality including syntax highlighting and UI environment.
+        <ul>
+            <b>1.2<b/>
+            <li>Added attribute color for HTML and XML files.</li>
+            <li>Added information hint pop-up background.</li>
+        </ul>
+        <ul>
+            <b>1.1<b/>
+            <li>Added background color for documentation pop-up.</li>
+            <li>Minor color changes.</li>
+        </ul>
+        <ul>
+            <b>1.0<b/>
+            <li>First release, basic functionality including syntax highlighting and UI environment.</li>
+        </ul>
+
     ]]>
     </change-notes>
 

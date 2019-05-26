@@ -14,13 +14,22 @@
     <option name="DIAGRAM_NOTE_BACKGROUND" value="5111d" />
     <option name="DIAGRAM_NOTE_BORDER" value="8212f" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="4f5755" />
+    <option name="DOCUMENTATION_COLOR" value="10611" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="1e2a3e" />
     <option name="GUTTER_BACKGROUND" value="10611" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="2f161f" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="72f2c" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="2f2b10" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="d2c37" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="322137" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="363437" />
     <option name="INDENT_GUIDE" value="8212f" />
+    <option name="INFORMATION_HINT" value="5111d" />
     <option name="LINE_NUMBERS_COLOR" value="293941" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="4b666f" />
     <option name="METHOD_SEPARATORS_COLOR" value="8212f" />
     <option name="MODIFIED_LINES_COLOR" value="266c78" />
+    <option name="QUESTION_HINT" value="5111d" />
     <option name="RIGHT_MARGIN_COLOR" value="8212f" />
     <option name="SELECTED_INDENT_GUIDE" value="b364b" />
     <option name="SELECTED_TEARLINE_COLOR" value="a7496e" />
@@ -87,7 +96,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CSS.COLOR" baseAttributes="CSS.IDENT" />
+    <option name="CSS.COLOR">
+      <value>
+        <option name="FOREGROUND" value="87617e" />
+      </value>
+    </option>
     <option name="CSS.FUNCTION">
       <value>
         <option name="FOREGROUND" value="c25772" />
@@ -112,10 +125,25 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="CSS.PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="bac8cb" />
+      </value>
+    </option>
+    <option name="CSS.PSEUDO">
+      <value>
+        <option name="FOREGROUND" value="87617e" />
+      </value>
+    </option>
     <option name="CSS.TAG_NAME">
       <value>
         <option name="FOREGROUND" value="f2c4b3" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.UNICODE.RANGE">
+      <value>
+        <option name="FOREGROUND" value="87617e" />
       </value>
     </option>
     <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
@@ -148,7 +176,7 @@
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="c9cccd" />
+        <option name="FOREGROUND" value="f2c4b3" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -252,11 +280,13 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="2858e" />
+        <option name="FOREGROUND" value="f859b" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="f859b" />
+      </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
@@ -352,7 +382,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="101420" />
+        <option name="BACKGROUND" value="5111d" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -363,6 +393,11 @@
       </value>
     </option>
     <option name="HAML_TAG" baseAttributes="TEXT" />
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="f2c4b3" />
+      </value>
+    </option>
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
@@ -376,7 +411,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="15334a" />
+        <option name="EFFECT_COLOR" value="194561" />
         <option name="ERROR_STRIPE_COLOR" value="1e536b" />
       </value>
     </option>
@@ -389,10 +424,20 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="101420" />
+        <option name="BACKGROUND" value="5111d" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="5d6969" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="5d6969" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
         <option name="FOREGROUND" value="5d6969" />
       </value>
@@ -493,7 +538,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="2858e" />
+        <option name="EFFECT_COLOR" value="b7758b" />
         <option name="ERROR_STRIPE_COLOR" value="2373e" />
       </value>
     </option>
@@ -510,6 +555,8 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
