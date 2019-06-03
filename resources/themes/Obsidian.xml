@@ -13,7 +13,6 @@
     <option name="DIAGRAM_NODE_HEADER" value="5111d" />
     <option name="DIAGRAM_NOTE_BACKGROUND" value="5111d" />
     <option name="DIAGRAM_NOTE_BORDER" value="8212f" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="4f5755" />
     <option name="DOCUMENTATION_COLOR" value="10611" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="1e2a3e" />
     <option name="GUTTER_BACKGROUND" value="10611" />
@@ -39,6 +38,7 @@
     <option name="TEARLINE_COLOR" value="8212f" />
     <option name="VISUAL_INDENT_GUIDE" value="8212f" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="266c78" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="1d242f" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -90,21 +90,9 @@
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
       <value />
     </option>
-    <option name="CSS.CLASS_NAME">
-      <value>
-        <option name="FOREGROUND" value="c25772" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="CSS.COLOR">
       <value>
         <option name="FOREGROUND" value="87617e" />
-      </value>
-    </option>
-    <option name="CSS.FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="c25772" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.HASH">
@@ -256,7 +244,8 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c25772" />
+        <option name="FOREGROUND" value="bc466b" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -274,7 +263,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="2858e" />
+        <option name="FOREGROUND" value="716994" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -356,6 +345,11 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="EFFECT_COLOR" value="5e5339" />
+      </value>
+    </option>
+    <option name="EL.BOUNDS">
+      <value>
+        <option name="FOREGROUND" value="bc466b" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
@@ -451,7 +445,9 @@
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JSP_SCRIPTING_BACKGROUND">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="c9cccd" />
+      </value>
     </option>
     <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
@@ -501,6 +497,11 @@
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="87617e" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c9cccd" />
@@ -517,7 +518,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="eabe99" />
+        <option name="FOREGROUND" value="87617e" />
         <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
@@ -531,7 +532,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="eede89" />
+        <option name="EFFECT_COLOR" value="eeecaa" />
         <option name="ERROR_STRIPE_COLOR" value="d9c979" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -544,7 +545,7 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="feee96" />
+        <option name="EFFECT_COLOR" value="eeecaa" />
         <option name="ERROR_STRIPE_COLOR" value="23756c" />
       </value>
     </option>
@@ -560,6 +561,18 @@
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.CLASS_NAME" baseAttributes="CSS.IDENT" />
+    <option name="CSS.FUNCTION" baseAttributes="HTML_TAG_NAME" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />

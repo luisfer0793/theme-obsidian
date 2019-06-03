@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.fernandojimenez.obsidian.theme</id>
     <name>Obsidian</name>
-    <version>1.2</version>
+    <version>1.3</version>
     <vendor email="luisfer.0793@gmail.com" url="https://github.com/luisfer0793">Luis Fernando Jiménez</vendor>
 
     <description><![CDATA[
@@ -10,18 +10,33 @@
 
     <change-notes><![CDATA[
         <ul>
-            <b>1.2<b/>
-            <li>Added attribute color for HTML and XML files.</li>
-            <li>Added information hint pop-up background.</li>
-        </ul>
-        <ul>
-            <b>1.1<b/>
-            <li>Added background color for documentation pop-up.</li>
-            <li>Minor color changes.</li>
-        </ul>
-        <ul>
-            <b>1.0<b/>
-            <li>First release, basic functionality including syntax highlighting and UI environment.</li>
+            <li>
+                <b>1.3<b/>
+                <ul>
+                    <li>Changed syntax color for keyword, now is bold.</li>
+                    <li>Changed background color for Version Control Branches.</li>
+                </ul>
+            </li>
+            <li>
+                <b>1.2<b/>
+                <ul>
+                    <li>Added attribute color for HTML and XML files.</li>
+                    <li>Added information hint pop-up background.</li>
+                </ul>
+            </li>
+            <li>
+                <b>1.1<b/>
+                <ul>
+                    <li>Added background color for documentation pop-up.</li>
+                    <li>Minor color changes.</li>
+                </ul>
+            </li>
+            <li>
+                <b>1.0<b/>
+                <ul>
+                    <li>First release, basic functionality including syntax highlighting and UI environment.</li>
+                </ul>
+            </li>
         </ul>
 
     ]]>

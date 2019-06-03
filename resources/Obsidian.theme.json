@@ -101,8 +101,9 @@
         },
         "EditorPane.inactiveBackground": "#05111D",
         "FileColor": {
-            "Yellow": "#132234",
-            "Rose": "#bf616a"
+            "Yellow": "#05111D",
+            "Rose": "#bf616a",
+            "Green": "#05161f"
         },
         "Group.disabledSeparatorColor": "#08212F",
         "HelpTooltip": {
@@ -280,6 +281,11 @@
             "errorBorderColor": "#802d43",
             "warningBackground": "#8f9544",
             "warningBorderColor": "#8f9544"
+        },
+        "VersionControl": {
+            "GitLog.localBranchIconColor": "#bc466b",
+            "GitLog.remoteBranchIconColor": "#87617e",
+            "Log.Commit.currentBranchBackground": "#05111D"
         },
         "Viewport.background": "#010611",
         "WelcomeScreen": {
