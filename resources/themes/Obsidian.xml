@@ -13,6 +13,7 @@
     <option name="DIAGRAM_NODE_HEADER" value="5111d" />
     <option name="DIAGRAM_NOTE_BACKGROUND" value="5111d" />
     <option name="DIAGRAM_NOTE_BORDER" value="8212f" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="1d242f" />
     <option name="DOCUMENTATION_COLOR" value="10611" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="1e2a3e" />
     <option name="GUTTER_BACKGROUND" value="10611" />
@@ -38,7 +39,6 @@
     <option name="TEARLINE_COLOR" value="8212f" />
     <option name="VISUAL_INDENT_GUIDE" value="8212f" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="266c78" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="1d242f" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -137,8 +137,8 @@
     <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="FOREGROUND" value="2858e" />
-        <option name="EFFECT_COLOR" value="2858e" />
+        <option name="FOREGROUND" value="a3649" />
+        <option name="EFFECT_COLOR" value="a3649" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -174,7 +174,7 @@
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="c25772" />
+        <option name="FOREGROUND" value="9b3a63" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -250,7 +250,7 @@
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="b9828f" />
+        <option name="FOREGROUND" value="cd92a1" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -272,6 +272,11 @@
         <option name="FOREGROUND" value="f859b" />
       </value>
     </option>
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="9b3a63" />
+      </value>
+    </option>
     <option name="DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f859b" />
@@ -284,7 +289,7 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="c25772" />
+        <option name="FOREGROUND" value="9b3a63" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -381,8 +386,8 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2858e" />
-        <option name="EFFECT_COLOR" value="2858e" />
+        <option name="FOREGROUND" value="a3649" />
+        <option name="EFFECT_COLOR" value="a3649" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -398,8 +403,8 @@
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2858e" />
-        <option name="EFFECT_COLOR" value="2858e" />
+        <option name="FOREGROUND" value="a3649" />
+        <option name="EFFECT_COLOR" value="a3649" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -412,6 +417,7 @@
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="434a5b" />
         <option name="EFFECT_COLOR" value="434a5b" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -477,6 +483,16 @@
         <option name="EFFECT_COLOR" value="73758a" />
       </value>
     </option>
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
@@ -518,7 +534,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="87617e" />
+        <option name="FOREGROUND" value="a3649" />
         <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
@@ -561,18 +577,11 @@
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="CSS.CLASS_NAME" baseAttributes="CSS.IDENT" />
-    <option name="CSS.FUNCTION" baseAttributes="HTML_TAG_NAME" />
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
-    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
-    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="KOTLIN_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="f859b" />
+      </value>
+    </option>
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
