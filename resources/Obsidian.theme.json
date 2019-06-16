@@ -279,8 +279,8 @@
         "ValidationTooltip": {
             "errorBackground": "#802d43",
             "errorBorderColor": "#802d43",
-            "warningBackground": "#8f9544",
-            "warningBorderColor": "#8f9544"
+            "warningBackground": "#f2ef65",
+            "warningBorderColor": "#f2ef65"
         },
         "VersionControl": {
             "GitLog.localBranchIconColor": "#bc466b",
