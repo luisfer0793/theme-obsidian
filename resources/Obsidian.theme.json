@@ -8,26 +8,26 @@
             "acceleratorForeground": "#abb9bc",
             "acceleratorSelectionForeground": "#abb9bc",
             "background": "#010611",
-            "borderColor": "#08212F",
+            "borderColor": "#081826",
             "disabledText": "#293941",
             "disabledBackground": "#05111D",
             "disabledBorderColor": "#293941",
             "disabledForeground": "#293941",
             "focusColor": "#0c9294",
-            "focusedBorderColor": "#08212F",
+            "focusedBorderColor": "#081826",
             "foreground": "#bac8cb",
             "inactiveBackground": "#05111d",
             "inactiveForeground": "#293941",
-            "lineSeparatorColor": "#08212F",
+            "lineSeparatorColor": "#081826",
             "lightSelectionBackground": "#074855",
             "lightSelectionForeground": "#839496",
             "lightSelectionInactiveBackground": "#073642",
             "lightSelectionInactiveForeground": "#293941",
             "selectionBackgroundInactive": "#05111d",
-            "selectionBackground": "#092834",
+            "selectionBackground": "#0a3847",
             "selectionForeground": "#d1d6d4",
             "selectionInactiveBackground": "#05111d",
-            "separatorColor": "#08212F"
+            "separatorColor": "#081826"
         },
         "ActionButton": {
             "hoverBackground": "#551f31",
@@ -36,8 +36,8 @@
             "pressedBorderColor": "#551f31"
         },
         "Borders": {
-            "color": "#08212F",
-            "ContrastBorderColor": "#08212F"
+            "color": "#081826",
+            "ContrastBorderColor": "#081826"
         },
         "Button": {
             "startBackground": "#05111D",
@@ -51,7 +51,7 @@
                 "endBackground": "#0A677A",
                 "startBorderColor": "#0A677Ac3",
                 "endBorderColor": "#0A677Ac3",
-                "focusedBorderColor": "#08212F",
+                "focusedBorderColor": "#0c9294",
                 "focusColor": "#0c9294",
                 "shadowColor": "#002b36"
             }
@@ -73,7 +73,7 @@
         "Component": {
             "errorFocusColor": "#bf616a",
             "focusColor": "#0c9294",
-            "focusedBorderColor": "#08212F",
+            "focusedBorderColor": "#0c9294",
             "focusWidth": 3,
             "inactiveErrorFocusColor": "#bf616a",
             "inactiveWarningFocusColor": "#8f9544",
@@ -97,7 +97,7 @@
             "selectedBackground": "#05121d",
             "underlineColor": "#A7496E",
             "inactiveMaskColor": "#05111d",
-            "borderColor": "#08212F"
+            "borderColor": "#05111D"
         },
         "EditorPane.inactiveBackground": "#05111D",
         "FileColor": {
@@ -275,7 +275,10 @@
             "background": "#010611",
             "Actions.background": "#05111D"
         },
-        "Tree.rowHeight": 22,
+        "Tree": {
+            "rowHeight": 22,
+            "background": "#010611"
+        },
         "ValidationTooltip": {
             "errorBackground": "#802d43",
             "errorBorderColor": "#802d43",

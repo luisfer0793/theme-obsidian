@@ -46,7 +46,7 @@
             "endBorderColor": "#D3AF86",
             "shadowColor": "#FDF6E3",
             "default": {
-                "foreground": "#fdf6e3",
+                "foreground": "#4d6168",
                 "startBackground": "#D3AF86",
                 "endBackground": "#D3AF86",
                 "startBorderColor": "#D3AF86",

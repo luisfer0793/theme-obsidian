@@ -23,21 +23,22 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="d2c37" />
     <option name="HTML_TAG_TREE_LEVEL4" value="322137" />
     <option name="HTML_TAG_TREE_LEVEL5" value="363437" />
-    <option name="INDENT_GUIDE" value="8212f" />
+    <option name="INDENT_GUIDE" value="81826" />
     <option name="INFORMATION_HINT" value="5111d" />
     <option name="LINE_NUMBERS_COLOR" value="293941" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="4b666f" />
     <option name="METHOD_SEPARATORS_COLOR" value="8212f" />
     <option name="MODIFIED_LINES_COLOR" value="266c78" />
     <option name="QUESTION_HINT" value="5111d" />
-    <option name="RIGHT_MARGIN_COLOR" value="8212f" />
+    <option name="RIGHT_MARGIN_COLOR" value="81826" />
     <option name="SELECTED_INDENT_GUIDE" value="b364b" />
     <option name="SELECTED_TEARLINE_COLOR" value="a7496e" />
-    <option name="SELECTION_BACKGROUND" value="1b2c36" />
-    <option name="SEPARATOR_ABOVE_COLOR" value="8212f" />
-    <option name="SEPARATOR_BELOW_COLOR" value="8212f" />
-    <option name="TEARLINE_COLOR" value="8212f" />
-    <option name="VISUAL_INDENT_GUIDE" value="8212f" />
+    <option name="SELECTION_BACKGROUND" value="82c3c" />
+    <option name="SELECTION_FOREGROUND" value="c2c2c2" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="81826" />
+    <option name="SEPARATOR_BELOW_COLOR" value="81826" />
+    <option name="TEARLINE_COLOR" value="81826" />
+    <option name="VISUAL_INDENT_GUIDE" value="81826" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="266c78" />
   </colors>
   <attributes>
@@ -382,6 +383,7 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="5111d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -429,17 +431,17 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="5d6969" />
+        <option name="FOREGROUND" value="293941" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="5d6969" />
+        <option name="FOREGROUND" value="293941" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="5d6969" />
+        <option name="FOREGROUND" value="293941" />
       </value>
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
@@ -457,6 +459,11 @@
     </option>
     <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
+    <option name="KOTLIN_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="f859b" />
+      </value>
+    </option>
     <option name="KOTLIN_SMART_CAST_RECEIVER">
       <value>
         <option name="EFFECT_COLOR" value="2858e" />
@@ -577,11 +584,6 @@
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="KOTLIN_NAMED_ARGUMENT">
-      <value>
-        <option name="FOREGROUND" value="f859b" />
-      </value>
-    </option>
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />

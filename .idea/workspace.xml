@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9813ad0d-e1cc-430f-9cf4-e967c0feb72f" name="Default Changelist" comment="Version 2.0 - Added a completely new light based theme.">
-      <change afterPath="$PROJECT_DIR$/resources/Obsidian_Bright.theme.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/themes/Obsidian_Bright.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9813ad0d-e1cc-430f-9cf4-e967c0feb72f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/Obsidian.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Obsidian.theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Obsidian_Bright.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Obsidian_Bright.theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/themes/Obsidian.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/themes/Obsidian.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/themes/Obsidian_Bright.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/themes/Obsidian_Bright.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +35,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1222">
-              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+            <state relative-caret-position="-7">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -47,8 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/Obsidian.theme.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7384">
-              <caret line="284" column="27" selection-start-line="284" selection-start-column="27" selection-end-line="284" selection-end-column="27" />
+            <state relative-caret-position="-17">
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -56,17 +56,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/themes/Obsidian.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2756">
-              <caret line="106" column="45" selection-start-line="106" selection-start-column="45" selection-end-line="106" selection-end-column="45" />
+            <state relative-caret-position="-7">
+              <caret line="461" selection-start-line="461" selection-end-line="461" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/Obsidian_Bright.theme.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7436">
-              <caret line="286" column="38" selection-start-line="286" selection-start-column="38" selection-end-line="286" selection-end-column="38" />
+            <state relative-caret-position="301">
+              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -74,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/themes/Obsidian_Bright.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+            <state relative-caret-position="-7">
+              <caret line="452" column="9" selection-start-line="452" selection-start-column="9" selection-end-line="452" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -102,10 +102,13 @@
       <find>376C89</find>
       <find>#762B3F</find>
       <find>762B3F</find>
-      <find>#05111D</find>
       <find>#F5E6E7</find>
       <find>#802D43</find>
       <find>parameter</find>
+      <find>foreground</find>
+      <find>#05111D</find>
+      <find>103045</find>
+      <find>#0C1D2C</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -121,9 +124,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/resources/themes/Obsidian.xml" />
-        <option value="$PROJECT_DIR$/resources/Obsidian.theme.json" />
-        <option value="$PROJECT_DIR$/resources/Obsidian_Bright.theme.json" />
         <option value="$PROJECT_DIR$/resources/themes/Obsidian_Bright.xml" />
+        <option value="$PROJECT_DIR$/resources/Obsidian_Bright.theme.json" />
+        <option value="$PROJECT_DIR$/resources/Obsidian_Mate.theme.json" />
+        <option value="$PROJECT_DIR$/resources/Obsidian.theme.json" />
         <option value="$PROJECT_DIR$/resources/META-INF/plugin.xml" />
       </list>
     </option>
@@ -141,11 +145,16 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-233" />
-    <option name="y" value="-16" />
-    <option name="width" value="1434" />
-    <option name="height" value="1047" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -153,7 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,6 +184,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -188,17 +197,17 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17480469" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.By Scope" />
     <property name="settings.editor.splitter.proportion" value="0.263834" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Fernando\Documents\Plugins\Obsidian\resources" />
       <recent name="C:\Users\Fernando\Documents\Plugins\Obsidian\resources\themes" />
+      <recent name="C:\Users\Fernando\Documents\Plugins\Obsidian\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -365,7 +374,26 @@
       <workItem from="1560627224574" duration="9028000" />
       <workItem from="1560637424761" duration="1079000" />
       <workItem from="1560638535698" duration="232000" />
-      <workItem from="1560665774160" duration="241000" />
+      <workItem from="1560665774160" duration="989000" />
+      <workItem from="1560699628047" duration="744000" />
+      <workItem from="1560700004958" duration="5000" />
+      <workItem from="1560700031510" duration="76000" />
+      <workItem from="1560756859146" duration="3362000" />
+      <workItem from="1560920535145" duration="3029000" />
+      <workItem from="1560932582930" duration="694000" />
+      <workItem from="1560965257283" duration="19251000" />
+      <workItem from="1561012705794" duration="76000" />
+      <workItem from="1561037738401" duration="892000" />
+      <workItem from="1561040631291" duration="1122000" />
+      <workItem from="1561096149780" duration="630000" />
+      <workItem from="1561307677077" duration="525000" />
+      <workItem from="1561314939419" duration="7014000" />
+      <workItem from="1561343512490" duration="71000" />
+      <workItem from="1561352994958" duration="655000" />
+      <workItem from="1561364014033" duration="712000" />
+      <workItem from="1561364822522" duration="649000" />
+      <workItem from="1561389450553" duration="186000" />
+      <workItem from="1561391477133" duration="4812000" />
     </task>
     <task id="LOCAL-00001" summary="Version 1.0 - Initial release.">
       <created>1558316764190</created>
@@ -395,11 +423,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559977483960</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Version 2.0 - Added a completely new light based theme.">
+      <created>1560666022436</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560666022436</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130073000" />
+    <option name="totallyTimeSpent" value="175326000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -412,36 +447,35 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4863103" visible="true" weight="0.19322917" />
-      <window_info id="Structure" order="1" sideWeight="0.5136897" side_tool="true" weight="0.42450765" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47614214" visible="true" weight="0.18958333" />
+      <window_info id="Structure" order="1" sideWeight="0.5238579" side_tool="true" visible="true" weight="0.18958333" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328934" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3164021" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.23618636" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4989339" weight="0.19898477" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4989339" weight="0.26192895" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.20768432" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.19418484" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32994923" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32994923" />
       <window_info anchor="bottom" id="Flutter Performance" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.12953092" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.20628998" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Flutter Inspector" order="9" />
@@ -545,38 +579,45 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/themes/Obsidian.xml">
+    <entry file="file://$PROJECT_DIR$/resources/Obsidian_Mate.theme.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2756">
-          <caret line="106" column="45" selection-start-line="106" selection-start-column="45" selection-end-line="106" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/themes/Obsidian_Bright.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/Obsidian.theme.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7384">
-          <caret line="284" column="27" selection-start-line="284" selection-start-column="27" selection-end-line="284" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/Obsidian_Bright.theme.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7436">
-          <caret line="286" column="38" selection-start-line="286" selection-start-column="38" selection-end-line="286" selection-end-column="38" />
+        <state relative-caret-position="-702">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1222">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        <state relative-caret-position="-7">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/Obsidian.theme.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/themes/Obsidian.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="461" selection-start-line="461" selection-end-line="461" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/themes/Obsidian_Bright.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="452" column="9" selection-start-line="452" selection-start-column="9" selection-end-line="452" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/Obsidian_Bright.theme.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
         </state>
       </provider>
     </entry>

@@ -10,9 +10,9 @@
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="eee8d5" />
     <option name="INDENT_GUIDE" value="e1dbc8" />
-    <option name="INFORMATION_HINT" value="EEE8D5" />
+    <option name="INFORMATION_HINT" value="eee8d5" />
     <option name="LINE_NUMBERS_COLOR" value="237893" />
-    <option name="METHOD_SEPARATORS_COLOR" value="E1DBC8" />
+    <option name="METHOD_SEPARATORS_COLOR" value="e1dbc8" />
     <option name="QUESTION_HINT" value="eee8d5" />
     <option name="RIGHT_MARGIN_COLOR" value="e1dbc8" />
     <option name="SELECTED_INDENT_GUIDE" value="d3af86" />
@@ -443,6 +443,7 @@
         <option name="ERROR_STRIPE_COLOR" value="f0adf0" />
       </value>
     </option>
+    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
