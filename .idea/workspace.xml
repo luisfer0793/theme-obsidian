@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9813ad0d-e1cc-430f-9cf4-e967c0feb72f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/Obsidian.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Obsidian.theme.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/Obsidian_Bright.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Obsidian_Bright.theme.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/themes/Obsidian.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/themes/Obsidian.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/themes/Obsidian_Bright.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/themes/Obsidian_Bright.xml" afterDir="false" />
     </list>
@@ -15,6 +13,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -41,27 +42,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>hints</find>
-      <find>caret</find>
-      <find>care</find>
-      <find>asd</find>
-      <find>searc</find>
-      <find>A39E52</find>
-      <find>#376C89</find>
-      <find>376C89</find>
-      <find>#762B3F</find>
-      <find>762B3F</find>
-      <find>#F5E6E7</find>
-      <find>#802D43</find>
-      <find>parameter</find>
-      <find>foreground</find>
-      <find>#05111D</find>
-      <find>103045</find>
-      <find>#0C1D2C</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -84,13 +64,13 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1087" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
+  <component name="ProjectId" id="1OlVNnzWEqmbYrBBqSQgOdx0YJd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -102,7 +82,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17480469" />
     <property name="project.structure.side.proportion" value="0.30974358" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
     <property name="settings.editor.splitter.proportion" value="0.263834" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -296,6 +276,8 @@
       <workItem from="1561364822522" duration="649000" />
       <workItem from="1561389450553" duration="186000" />
       <workItem from="1561391477133" duration="4812000" />
+      <workItem from="1564552136694" duration="149000" />
+      <workItem from="1564609697179" duration="2912000" />
     </task>
     <task id="LOCAL-00001" summary="Version 1.0 - Initial release.">
       <created>1558316764190</created>
@@ -332,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560666022436</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Version 2.1 - IntelliJ 2019.2 compatibility.">
+      <created>1564551848691</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564551848691</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -390,7 +379,8 @@
     <MESSAGE value="Version 1.3 - Changed syntax for keyword and minor color changes." />
     <MESSAGE value="Version 1.4 - Minor syntax color changes." />
     <MESSAGE value="Version 2.0 - Added a completely new light based theme." />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 2.0 - Added a completely new light based theme." />
+    <MESSAGE value="Version 2.1 - IntelliJ 2019.2 compatibility." />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 2.1 - IntelliJ 2019.2 compatibility." />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

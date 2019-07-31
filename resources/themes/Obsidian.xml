@@ -44,6 +44,7 @@
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="BASH.EXTERNAL_COMMAND" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="c9cccd" />
@@ -91,9 +92,21 @@
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
       <value />
     </option>
+    <option name="CSS.CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="cd92a1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CSS.COLOR">
       <value>
         <option name="FOREGROUND" value="87617e" />
+      </value>
+    </option>
+    <option name="CSS.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ae4070" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.HASH">
@@ -165,7 +178,8 @@
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="f2c4b3" />
+        <option name="FOREGROUND" value="d0d6b5" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -222,7 +236,10 @@
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="f2c4b3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value />
@@ -245,7 +262,6 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FONT_TYPE" value="1" />
         <option name="FOREGROUND" value="ae4070" />
       </value>
     </option>
@@ -270,7 +286,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="f859b" />
+        <option name="FOREGROUND" value="cd92a1" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -322,6 +338,15 @@
       <value>
         <option name="FOREGROUND" value="87617e" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DELETED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="4b2234" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="c3c3c3" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DIFF_CONFLICT">
@@ -393,12 +418,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HAML_CLASS" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
+    <option name="HAML_ID" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="HAML_TAG" baseAttributes="TEXT" />
-    <option name="HTML_ATTRIBUTE_NAME">
-      <value>
-        <option name="FOREGROUND" value="f2c4b3" />
-      </value>
-    </option>
+    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
@@ -412,7 +437,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="2391b7" />
+        <option name="EFFECT_COLOR" value="157685" />
         <option name="ERROR_STRIPE_COLOR" value="1e536b" />
       </value>
     </option>
@@ -444,6 +469,10 @@
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JSON.PROPERTY_KEY">
       <value>
         <option name="FOREGROUND" value="bac8cb" />
@@ -539,9 +568,14 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a3649" />
+        <option name="FOREGROUND" value="434a5b" />
         <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      </value>
+    </option>
+    <option name="TS.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="f859b" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
@@ -550,6 +584,10 @@
         <option name="EFFECT_COLOR" value="abcca2" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="VELOCITY_DIRECTIVE" baseAttributes="JSP_DIRECTIVE_NAME" />
+    <option name="VELOCITY_SCRIPTING_BACKGROUND">
+      <value />
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
@@ -582,10 +620,6 @@
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />

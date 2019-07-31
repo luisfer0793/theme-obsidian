@@ -92,7 +92,7 @@
         "DefaultTabs": {
             "underlineColor": "#D3AF86",
             "hoverBackground": "#E1DBC8",
-            "inactiveUnderlineColor": "#0A677A"
+            "inactiveUnderlineColor": "#D3AF86"
         },
 
         "Editor": {

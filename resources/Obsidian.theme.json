@@ -100,7 +100,7 @@
         "DefaultTabs": {
             "underlineColor": "#A7496E",
             "hoverBackground": "#05111D",
-            "inactiveUnderlineColor": "#0A677A"
+            "inactiveUnderlineColor": "#63313d"
         },
 
         "Editor": {
@@ -112,7 +112,7 @@
         "EditorTabs": {
             "borderColor": "#081826",
             "underlineColor": "#A7496E",
-            "underlinedTabBackground": "#010611",
+            "underlinedTabBackground": "#05111D",
             "hoverMaskColor": "#05111D"
         },
 

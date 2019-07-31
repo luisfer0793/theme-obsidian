@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.fernandojimenez.obsidian.theme</id>
     <name>Obsidian</name>
-    <version>2.1</version>
+    <version>2.1.1</version>
     <vendor email="luisfer.0793@gmail.com" url="https://github.com/luisfer0793">Luis Fernando Jiménez</vendor>
 
     <description><![CDATA[
@@ -10,6 +10,13 @@
 
     <change-notes><![CDATA[
         <ul>
+            <li>
+                <b>2.1.1<b/>
+                <ul>
+                    <li>Keyword is no longer bold in obsidian theme.</li>
+                    <li>Syntax color changes in obsidian bright.</li>
+                </ul>
+            </li>
             <li>
                 <b>2.1<b/>
                 <ul>
