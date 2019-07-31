@@ -29,16 +29,19 @@
             "selectionInactiveBackground": "#DDD9CB",
             "separatorColor": "#DDD6C1"
         },
+
         "ActionButton": {
             "hoverBackground": "#EAE0C0",
             "hoverBorderColor": "#EAE0C0",
             "pressedBackground": "#EAE0C0",
             "pressedBorderColor": "#EAE0C0"
         },
+
         "Borders": {
             "color": "#E1DBC8",
             "ContrastBorderColor": "#E1DBC8"
         },
+
         "Button": {
             "startBackground": "#FDF6E3",
             "endBackground": "#FDF6E3",
@@ -63,55 +66,75 @@
                 "nonEditableBackground": "#E1DDD1"
             }
         },
+
         "ComboPopup.border": "1,1,1,1,D3AF86",
+
         "CompletionPopup": {
-            "matchForeground": "#424242",
-            "matchSelectionForeground": "#424242"
+            "matchForeground": "#424242"
         },
+
         "Component": {
             "errorFocusColor": "#bf616a",
             "focusWidth": 3,
             "inactiveErrorFocusColor": "#bf616a"
         },
+
         "Counter.background": "#B58900",
+
         "Counter.foreground": "#fdf6e3",
+
         "DragAndDrop": {
             "areaForeground": "#4d6168",
             "areaBackground": "#DDD9CB",
             "areaBorderColor": "#DDD6C1"
         },
+
+        "DefaultTabs": {
+            "underlineColor": "#D3AF86",
+            "hoverBackground": "#E1DBC8",
+            "inactiveUnderlineColor": "#0A677A"
+        },
+
         "Editor": {
             "background": "#FDF6E3",
             "foreground": "#4d6168",
             "shortcutForeground": "#3A8ABC"
         },
+
         "EditorTabs": {
-            "selectedForeground": "#4d6168",
-            "selectedBackground": "#FDF6E3",
-            "underlineColor": "#FDF6E3",
-            "inactiveMaskColor": "#E1DBC8",
-            "borderColor": "#E1DBC8"
+            "borderColor": "#E1DBC8",
+            "underlineColor": "#D3AF86",
+            "underlinedTabBackground": "#EEE8D5",
+            "hoverMaskColor": "#EEE8D5"
         },
+
         "EditorPane.inactiveBackground": "#E1DDD1",
+
         "FileColor": {
             "Yellow": "#EAE0C0",
             "Rose": "#bf616a",
             "Green": "#E1DDD1"
         },
+
         "Group.disabledSeparatorColor": "#DDD6C1",
+
         "HelpTooltip": {
             "background": "#EEE8D5",
             "shortcutForeground": "#4d6168"
         },
+
         "InplaceRefactoringPopup.borderColor": "#DDD6C1",
+
         "Link": {
-            "activeForeground": "#006AB1",
-            "hoverForeground": "#006AB1",
-            "pressedForeground": "#006AB1",
-            "visitedForeground": "#006AB1",
-            "secondaryForeground": "#66AFE0"
+            "activeForeground": "#02858e",
+            "hoverForeground": "#02858e",
+            "pressedForeground": "#02858e",
+            "visitedForeground": "#02858e",
+            "secondaryForeground": "#02abb4"
         },
+
         "NavBar.borderColor": "#DDD6C1",
+
         "Notification": {
             "background": "#EEE8D5",
             "borderColor": "#DDD6C1",
@@ -128,7 +151,7 @@
                 "informativeBackground": "#DDD6C1",
                 "informativeBorderColor": "#DDD6C1",
                 "warningForeground": "#4d6168",
-                "warningBackground": "#8d8d55",
+                "warningBackground": "#EEE8D5",
                 "warningBorderColor": "#08212F",
                 "errorForeground": "#4d6168",
                 "errorBackground": "#F5E6E7",
@@ -245,6 +268,7 @@
             "background": "#EEE8D5",
             "rowHeight": 22
         },
+
         "ToggleButton": {
             "onForeground": "#4d6168",
             "onBackground": "#DDD6C1",
@@ -253,6 +277,7 @@
             "borderColor": "#D3AF86",
             "buttonColor":  "#D3AF86"
         },
+
         "ToolWindow": {
             "Header": {
                 "background": "#DDD6C1",
@@ -270,29 +295,35 @@
                 "hoverBackground": "#DDD6C1"
             }
         },
+
         "ToolTip": {
             "background": "#FDF6E3",
             "foreground": "#4d6168",
             "Actions.background": "#EEE8D5"
         },
+
         "ValidationTooltip": {
             "errorBackground": "#F5E6E7",
             "errorBorderColor": "#E0A8A9",
             "warningBackground": "#e0d9a9",
             "warningBorderColor": "#f2ef65"
         },
+
         "VersionControl": {
             "GitLog.localBranchIconColor": "#bc466b",
             "GitLog.remoteBranchIconColor": "#87617e",
             "Log.Commit.currentBranchBackground": "#EEE8D5"
         },
+
         "Viewport.background": "#FDF6E3",
+
         "WelcomeScreen": {
             "background": "#FDF6E3",
             "Projects.selectionInactiveBackground": "#EEE8D5",
             "separatorColor": "#EEE8D5"
         }
     },
+
     "icons": {
         "ColorPalette": {
             "Checkbox.Border.Default": "#D3AF86",

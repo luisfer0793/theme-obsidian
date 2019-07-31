@@ -61,7 +61,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff2d4d" />
+        <option name="FOREGROUND" value="c42740" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
@@ -85,7 +85,7 @@
     </option>
     <option name="CSS.CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="bc466b" />
+        <option name="FOREGROUND" value="9b3a63" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -96,7 +96,7 @@
     </option>
     <option name="CSS.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="9b3a63" />
+        <option name="FOREGROUND" value="1c5e7d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -144,7 +144,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="cbc4af" />
+        <option name="FOREGROUND" value="beb7a2" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -161,7 +161,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="cbc4af" />
+        <option name="FOREGROUND" value="beb7a2" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -229,7 +229,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="cbc4af" />
+        <option name="FOREGROUND" value="beb7a2" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -346,18 +346,16 @@
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value>
-        <option name="BACKGROUND" value="e2cb79" />
-      </value>
+      <value />
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="cbc4af" />
+        <option name="FOREGROUND" value="beb7a2" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="cbc4af" />
+        <option name="FOREGROUND" value="beb7a2" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
@@ -377,6 +375,7 @@
       </value>
     </option>
     <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
+    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="2f3f50" />
@@ -384,12 +383,12 @@
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff4262" />
+        <option name="FOREGROUND" value="c42740" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b8b55c" />
+        <option name="FOREGROUND" value="a69275" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
@@ -443,7 +442,72 @@
         <option name="ERROR_STRIPE_COLOR" value="f0adf0" />
       </value>
     </option>
-    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
+    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="1c5e7d" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="1c5e7d" />
+      </value>
+    </option>
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="2391b7" />
+      </value>
+    </option>
+    <option name="CONSOLE_CYAN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="9e9e" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="1f9a6a" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="1f9a6a" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c42740" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c42740" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a69275" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a69275" />
+      </value>
+    </option>
+    <option name="LOG_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="9e9e" />
+      </value>
+    </option>
+    <option name="LOG_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="1f9a6a" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="1c5e7d" />
+      </value>
+    </option>
+    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
