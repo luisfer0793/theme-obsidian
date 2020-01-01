@@ -1,77 +1,79 @@
 <idea-plugin>
     <id>com.fernandojimenez.obsidian.theme</id>
     <name>Obsidian</name>
-    <version>2.1.1</version>
+    <version>3.0.0</version>
     <vendor email="luisfer.0793@gmail.com" url="https://github.com/luisfer0793">Luis Fernando Jiménez</vendor>
 
     <description><![CDATA[
-      A pure black theme, colorful syntax and comfortable UI.
+        A minimalist dark and light theme using comfortable UI colors.
     ]]></description>
 
     <change-notes><![CDATA[
-        <ul>
-            <li>
-                <b>2.1.1<b/>
-                <ul>
-                    <li>Keyword is no longer bold in obsidian theme.</li>
-                    <li>Syntax color changes in obsidian bright.</li>
-                </ul>
-            </li>
-            <li>
-                <b>2.1<b/>
-                <ul>
-                    <li>Update editor tab colors for IntelliJ 2019.2 compatibility.</li>
-                    <li>Minor syntax color changes.</li>
-                </ul>
-            </li>
-            <li>
-                <b>2.0<b/>
-                <ul>
-                    <li>Added a completely new theme based on Solarized Light.</li>
-                    <li>Changed some syntax color.</li>
-                    <li>Borders now are more subtle.</li>
-                </ul>
-            </li>
-            <li>
-                <b>1.4<b/>
-                <ul>
-                    <li>Minor syntax color changes.</li>
-                </ul>
-            </li>
-            <li>
-                <b>1.3<b/>
-                <ul>
-                    <li>Changed syntax color for keyword, now is bold.</li>
-                    <li>Changed background color for Version Control Branches.</li>
-                </ul>
-            </li>
-            <li>
-                <b>1.2<b/>
-                <ul>
-                    <li>Added attribute color for HTML and XML files.</li>
-                    <li>Added information hint pop-up background.</li>
-                </ul>
-            </li>
-            <li>
-                <b>1.1<b/>
-                <ul>
-                    <li>Added background color for documentation pop-up.</li>
-                    <li>Minor color changes.</li>
-                </ul>
-            </li>
-            <li>
-                <b>1.0<b/>
-                <ul>
-                    <li>First release, basic functionality including syntax highlighting and UI environment.</li>
-                </ul>
-            </li>
-        </ul>
+            <b>3.0.0<b/>
+            <ul>
+                <li>Fully support for 2019.3.x version.</li>
+                <li>Changed some syntax colors.</li>
+            </ul>
+            <br>
 
+            <b>2.1.1<b/>
+            <ul>
+                <li>Keyword is no longer bold in obsidian theme.</li>
+                <li>Syntax color changes in obsidian bright.</li>
+            </ul>
+            <br>
+
+            <b>2.1<b/>
+            <ul>
+                <li>Update editor tab colors for IntelliJ 2019.2 compatibility.</li>
+                <li>Minor syntax color changes.</li>
+            </ul>
+            <br>
+
+            <b>2.0<b/>
+            <ul>
+                <li>Added a completely new theme based on Solarized Light.</li>
+                <li>Changed some syntax color.</li>
+                <li>Borders now are more subtle.</li>
+            </ul>
+            <br>
+
+            <b>1.4<b/>
+            <ul>
+                <li>Minor syntax color changes.</li>
+            </ul>
+            <br>
+
+            <b>1.3<b/>
+            <ul>
+                <li>Changed syntax color for keyword, now is bold.</li>
+                <li>Changed background color for Version Control Branches.</li>
+            </ul>
+            <br>
+
+            <b>1.2<b/>
+            <ul>
+                <li>Added attribute color for HTML and XML files.</li>
+                <li>Added information hint pop-up background.</li>
+            </ul>
+            <br>
+
+            <b>1.1<b/>
+            <ul>
+                <li>Added background color for documentation pop-up.</li>
+                <li>Minor color changes.</li>
+            </ul>
+            <br>
+
+            <b>1.0<b/>
+            <ul>
+                <li>First release, basic functionality including syntax highlighting and UI environment.</li>
+            </ul>
     ]]>
     </change-notes>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-    <idea-version since-build="191.0" until-build="192.*"/>
+    <idea-version since-build="191.0"/>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
          on how to target different products -->

@@ -164,7 +164,7 @@
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c9ad64" />
+        <option name="FOREGROUND" value="e6958f" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -185,6 +185,7 @@
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="293941" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
@@ -273,6 +274,7 @@
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="293941" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -327,7 +329,7 @@
     </option>
     <option name="DEFAULT_TAG">
       <value>
-        <option name="FOREGROUND" value="17415a" />
+        <option name="FOREGROUND" value="444e50" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -422,12 +424,32 @@
     <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
     <option name="HAML_ID" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
-    <option name="HAML_TAG" baseAttributes="TEXT" />
+    <option name="HAML_TAG">
+      <value>
+        <option name="FOREGROUND" value="444e50" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="HAML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="e6958f" />
+      </value>
+    </option>
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_CODE">
+      <value>
+        <option name="FOREGROUND" value="c9cccd" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
-    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="e6958f" />
+      </value>
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="a3649" />
@@ -472,6 +494,9 @@
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE">
+      <value />
+    </option>
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JSON.PROPERTY_KEY">
       <value>
@@ -484,7 +509,6 @@
         <option name="FOREGROUND" value="c9cccd" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
@@ -617,12 +641,22 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE">
+      <value>
+        <option name="FOREGROUND" value="c9cccd" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
-    <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="e6958f" />
+      </value>
+    </option>
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="LINE_SPACING" value="1.4" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_LIGATURES" value="true" />
 </scheme>

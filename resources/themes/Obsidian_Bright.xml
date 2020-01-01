@@ -186,7 +186,6 @@
     <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="DART_CONSTRUCTOR" baseAttributes="DART_INSTANCE_METHOD_DECLARATION" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="bc466b" />
@@ -363,15 +362,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="FLUTTER_LOG_CONFIG_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
-    <option name="FLUTTER_LOG_FINER_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
-    <option name="FLUTTER_LOG_FINEST_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
-    <option name="FLUTTER_LOG_FINE_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
-    <option name="FLUTTER_LOG_INFO_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
-    <option name="FLUTTER_LOG_NONE_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
-    <option name="FLUTTER_LOG_SEVERE_OUTPUT" baseAttributes="CONSOLE_ERROR_OUTPUT" />
-    <option name="FLUTTER_LOG_SHOUT_OUTPUT" baseAttributes="CONSOLE_ERROR_OUTPUT" />
-    <option name="FLUTTER_LOG_WARNING_OUTPUT" baseAttributes="CONSOLE_SYSTEM_OUTPUT" />
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="4d6168" />
@@ -385,6 +375,11 @@
         <option name="FOREGROUND" value="5a2643" />
         <option name="EFFECT_COLOR" value="5a2643" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value>
+        <option name="FOREGROUND" value="2f3f50" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -431,7 +426,6 @@
         <option name="FOREGROUND" value="2f3f50" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
@@ -515,10 +509,15 @@
         <option name="ERROR_STRIPE_COLOR" value="f0adf0" />
       </value>
     </option>
+    <option name="XML_TAG_DATA">
+      <value>
+        <option name="FOREGROUND" value="2f3f50" />
+      </value>
+    </option>
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="LINE_SPACING" value="1.4" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
 </scheme>
