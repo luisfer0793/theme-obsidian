@@ -184,7 +184,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="293941" />
+        <option name="FOREGROUND" value="4f6d77" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -204,25 +204,25 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="293941" />
+        <option name="FOREGROUND" value="4f6d77" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="293941" />
+        <option name="FOREGROUND" value="364b53" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="a3649" />
+        <option name="FOREGROUND" value="d4861" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="a3649" />
+        <option name="FOREGROUND" value="e475f" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -273,7 +273,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="293941" />
+        <option name="FOREGROUND" value="4f6d77" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
